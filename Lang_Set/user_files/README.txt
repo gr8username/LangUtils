@@ -1,1 +1,0 @@
-This file exists to ensure the existence of the critical user_files directory
